@@ -1,0 +1,12 @@
+{
+    "vetapp": {
+        "microapps": {
+            "cuddles-showcase": {
+                "path": "cuddles-showcase",
+                "type": "link",
+                "copy": false,
+                "seed": "src/seed"
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "service": "datasvc",
+    "domain": "",
+    "types": "startstates",
+    "data": {
+        "id": "flatbush_vet_start_state_veterinarian",
+        "veterinarian": {
+          "title": "Veterinarian",
+					"filled": true,
+					"redirectUrl": "/provider-start/{domain}/en_us/veterinarian/list/start",
+					"count": 0,
+					"icon": "icon-vet",
+					"description": "Add veterinarians of your practice"
+        }
+    }
+}

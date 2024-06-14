@@ -1,0 +1,32 @@
+{
+  "name": "showcase-platformflatbush",
+  "version": "1.0.0",
+  "description": "Showcase for a sample practice ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "data": "hub-cli data --mode int",
+    "data:demo": "hub-cli data --mode demo",
+    "data:dev": "hub-cli data --mode dev",
+    "blob": "hub-cli blob --mode int",
+    "blob:dev": "hub-cli blob --mode dev",
+    "blob:demo": "hub-cli blob --mode demo",
+    "data:prod": "hub-cli data --mode prod",
+    "blob:prod": "hub-cli blob --mode prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimyth/showcase-platformflatbush.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimyth/showcase-platformflatbush/issues"
+  },
+  "homepage": "https://github.com/aimyth/showcase-platformflatbush#readme",
+  "dependencies": {
+    "@aimythcorp/hub-cli": "0.9.9",
+    "@aimythcorp/utils": "0.0.6"
+  }
+}

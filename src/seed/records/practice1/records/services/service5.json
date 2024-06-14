@@ -1,0 +1,80 @@
+{
+	"service": "datasvc",
+	"domain": "",
+	"types": "inPersonHealths",
+	"data": {
+		"practice": {
+			"id": "flatbush_vet",
+			"businessName": "Flatbush Veterinary Clinic",
+			"type": "practice"
+		},
+		"id": "flatbush_vet_service5",
+		"externalType": "In-Person Service",
+		"title": "Spay Surgery for Dogs (41 - 80 lbs)",
+		"serviceType": "Preventative Service",
+		"businessName": "Flatbush Veterinary Clinic",
+		"availabilty": [
+			"In Person"
+		],
+		"price": {
+			"variant": "fixed",
+			"values": {
+				"gte": 350,
+				"lte": 350
+			},
+			"UoM": "$"
+		},
+		"medianPrice": null,
+		"performedBy": [
+			"Veterinarian"
+		],
+		"hospitalizationType": [
+			"Inpatient"
+		],
+		"teleHealthType": [],
+		"examinationsAndVisit": [],
+		"vaccinations": [],
+		"laboratory": [],
+		"diagnosticAndImagingService": [],
+		"grooming": [],
+		"dental": [],
+		"boarding": [],
+		"hospitalization": [],
+		"anesthesia": [],
+		"surgical": [
+			"Spay"
+		],
+		"endOfLife": [],
+		"tax": 8,
+		"taxVariant": "Fixed",
+		"duration": {
+			"variant": "range",
+			"values": {
+				"gte": 30,
+				"lte": 60
+			},
+			"UoM": "mins"
+		},
+		"weekendExtraCharge": null,
+		"description": "\r\n## Spay/Neuter\r\n\r\nAll cats & dogs will receive surgery, a small green tattoo on their abdomen indicating that they have been spayed/neutered, a nail trim, and pain medication.\r\n\r\nThe minimum weight and age for surgery is 0.9 kg (2 lbs) and 8 weeks. The recommended age for surgery is 4-6+ months.\r\n\r\n### Cat Spay/Neuter\r\n\r\n$225\r\n",
+		"video": null,
+		"isPublished": true,
+		"appointmentType": [
+			"In Person"
+		],
+		"isPublic": true,
+		"species": [
+			"Dog"
+		],
+		"geoLocation": {
+			"lat": 40.6350296,
+			"lon": -73.9505011
+		},
+		"images": {
+			"primary": {
+				"id": "flatbush_vet_service1_image1",
+				"type": "image"
+			}
+		}
+	}
+}

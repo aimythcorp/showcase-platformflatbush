@@ -1,0 +1,255 @@
+{
+    "app": "vetapp",
+    "service": "datasvc",
+    "domain": "",
+    "types": "practices",
+    "data": {
+        "id": "flatbush_vet",
+        "businessName": "Flatbush Veterinary Clinic",
+        "googleReviewLink": "https://www.google.com/search?q=flatbush+vet&rlz=1C1CHZN_enIN1026IN1026&oq=flatbush+vet&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIKCAYQABiABBiiBDIKCAcQABiiBBiJBagCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x89c25bf499b94ba3:0xdab305ba8accf01b,1,,,,",
+        "facebookReviewLink": "https://www.facebook.com/flatbushcatsTNR",
+        "yelpReviewLink": "",
+        "description": "We're focused on people and their pets, not profit.\n\nWe believe every pet deserves to see a vet.\n\nAs a community-centered nonprofit, we’re solely focused on providing exceptional veterinary care at a reasonable price.\n\nTHE PROBLEM\n\n 50% of pet owning households in the U.S. can no longer afford a basic vet visit.\n\nFlatbush Vet exists to remove barriers to care for all pet owners by tackling this problem directly.",
+        "species": [
+            "Cat",
+            "Dog"
+        ],
+        "email": {
+            "work": "contact@flatbushvet.org"
+        },
+        "phone": {
+            "main": "718-619-8009",
+            "fax": ""
+        },
+        "location": {
+            "streetAddress": "1460 Flatbush Avenue",
+            "aptSuiteOther": null,
+            "city": "Brooklyn",
+            "zip": "11210",
+            "state": "New York",
+            "country": "USA",
+            "neighborhood": null,
+            "county": "Kings County"
+        },
+        "workingDays": {
+            "mon": {
+                "availability": true,
+                "title": "Monday",
+                "shifts": {
+                    "shift1": {
+                        "availability": true,
+                        "from": "08:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift2": {
+                        "availability": false,
+                        "from": "13:00:00",
+                        "to": "17:30:00"
+                    },
+                    "shift3": {
+                        "availability": false,
+                        "from": null,
+                        "to": null
+                    }
+                }
+            },
+            "tue": {
+                "availability": true,
+                "title": "Tuesday",
+                "shifts": {
+                    "shift1": {
+                        "availability": true,
+                        "from": "08:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift2": {
+                        "availability": false,
+                        "from": "13:00:00",
+                        "to": "17:30:00"
+                    },
+                    "shift3": {
+                        "availability": false,
+                        "from": null,
+                        "to": null
+                    }
+                }
+            },
+            "wed": {
+                "availability": true,
+                "title": "Wednesday",
+                "shifts": {
+                    "shift1": {
+                        "availability": true,
+                        "from": "08:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift2": {
+                        "availability": false,
+                        "from": "13:00:00",
+                        "to": "17:30:00"
+                    },
+                    "shift3": {
+                        "availability": false,
+                        "from": null,
+                        "to": null
+                    }
+                }
+
+            },
+            "thu": {
+                "availability": true,
+                "title": "Thursday",
+                "shifts": {
+                    "shift1": {
+                        "availability": true,
+                        "from": "08:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift2": {
+                        "availability": false,
+                        "from": "13:00:00",
+                        "to": "17:30:00"
+                    },
+                    "shift3": {
+                        "availability": false,
+                        "from": null,
+                        "to": null
+                    }
+                }
+            },
+            "fri": {
+                "availability": false,
+                "title": "Friday",
+                "shifts": {
+                    "shift1": {
+                        "availability": true,
+                        "from": "10:00:00",
+                        "to": "20:00:00"
+                    },
+                    "shift2": {
+                        "availability": false,
+                        "from": "13:00:00",
+                        "to": "17:30:00"
+                    },
+                    "shift3": {
+                        "availability": false,
+                        "from": null,
+                        "to": null
+                    }
+                }
+            },
+            "sat": {
+                "availability": false,
+                "title": "Saturday",
+                "shifts": {
+                    "shift1": {
+                        "availability": true,
+                        "from": "08:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift2": {
+                        "availability": false,
+                        "from": "14:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift3": {
+                        "availability": false,
+                        "from": null,
+                        "to": null
+                    }
+                }
+            },
+            "sun": {
+                "availability": false,
+                "title": "Sunday",
+                "shifts": {
+                    "shift1": {
+                        "availability": true,
+                        "from": "08:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift2": {
+                        "availability": false,
+                        "from": "17:00:00",
+                        "to": "18:00:00"
+                    },
+                    "shift3": {
+                        "availability": false,
+                        "from": null,
+                        "to": null
+                    }
+                }
+            }
+        },
+        "geoLocation": {
+            "lat": 40.6350296,
+            "lon": -73.9505011
+        },
+        "isPublished": true,
+        "appointmentType": [
+            "In Person"
+        ],
+        "isMultiPractice": false, 
+        "isAlwaysOpen": false,
+        "catFriendlyPractice": false,
+        "acceptingNewPatients": true,
+        "approxWaitTimeForNewPatient": "None",
+        "isWaitingListAllowed": false,
+        "googleMap": "https://www.google.com/maps/place/Flatbush+Veterinary+Clinic/@40.6350296,-73.9505011,21z/data=!4m14!1m7!3m6!1s0x89c25bf499b94ba3:0xdab305ba8accf01b!2sFlatbush+Veterinary+Clinic!8m2!3d40.6350446!4d-73.9503603!16s%2Fg%2F11vchk73h9!3m5!1s0x89c25bf499b94ba3:0xdab305ba8accf01b!8m2!3d40.6350446!4d-73.9503603!16s%2Fg%2F11vchk73h9?entry=ttu",
+        "timezone": "America/New_York",
+        "hasExclusiveAppointmentTimeForCats": false,
+        "isPracitceTourAllowed": false,
+        "instagram": "https://www.instagram.com/flatbushvet/",
+        "linkedin": "https://www.linkedin.com/company/flatbushcats/",
+        "video": "https://www.youtube.com/watch?v=SFDWRF1eo4E",
+        "twitter": "https://x.com/flatbushcats?lang=en",
+        "hasHomeVisitForEuthanasia": false,
+        "isEmergencyHospital": false,
+        "hasWeekendHours": false,
+        "incorporationLicenseNo": "",
+        "website": "https://flatbushvet.org/",
+        "bookingUrl": "https://flatbushvet.org/request-an-appointment/",
+        "hasHouseVisits": false,
+        "AAHAaccredited": null, 
+        "isAAHAAccredited" : false,
+        "isFearFreeCertified": false,
+        "fearFreeCertified": false,
+        "fearFreeCertifiedLink": "",
+        "AAHAAccreditedLink": "",
+        "isWalkinAllowed": false,
+        "facebook": "https://www.facebook.com/flatbushcatsTNR",
+        "isExclusiveForCats": false,
+        "areEmergenciesWelcomed": true,
+        "practiceType": "Primary Care",
+        "hasEveningHours": true,
+        "incorporationState": "New York",
+        "incorporationYear": null,
+        "hasTelehealthServices": false,
+        "emergencyWelcomeHours": [
+            "Weekends",
+            "Regular Hours"
+        ],
+        "images": {
+            "primary": {
+                "id": "flatbush_vet_image",
+                "type": "image"
+            },
+            "secondary": {
+                "id": "flatbush_vet_image2",
+                "type": "image"
+            },
+            "tertiary": {
+                "id": "flatbush_vet_image3",
+                "type": "image"
+            },
+            "quaternary": {
+                "id": "flatbush_vet_image4",
+                "type": "image"
+            },
+            "logo": {
+                "id": "flatbush_vet_logo",
+                "type": "image"
+            }
+        }
+    }
+}

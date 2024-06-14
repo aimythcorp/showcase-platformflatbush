@@ -1,0 +1,11 @@
+{
+    "service": "blobsvc",
+    "domain": "",
+    "types": "images",
+    "data": {
+        "id": "flatbush_vet_image3",
+        "binaryData": {
+            "blob": "prac3.jpg"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+	"service": "datasvc",
+	"domain": "",
+	"types": "inPersonHealths",
+	"data": {
+		"practice": {
+			"id": "flatbush_vet",
+			"businessName": "Flatbush Veterinary Clinic",
+			"type": "practice"
+		},
+		"id": "flatbush_vet_service13",
+		"externalType": "In-Person Service",
+		"title": "Healthy Puppy Exam (Package)",
+		"serviceType": "Preventative Service",
+		"businessName": "Flatbush Veterinary Clinic",
+		"availabilty": [
+			"In Person"
+		],
+		"price": {
+			"variant": "fixed",
+			"values": {
+				"gte": 25,
+				"lte": 25
+			},
+			"UoM": "$"
+		},
+		"medianPrice": null,
+		"performedBy": [
+			"Veterinarian",
+			"Vet Tech"
+		],
+		"hospitalizationType": [
+			"Outpatient"
+		],
+		"teleHealthType": [],
+		"examinationsAndVisit": [
+			"Wellness Exam"
+		],
+		"vaccinations": [],
+		"laboratory": [],
+		"diagnosticAndImagingService": [],
+		"grooming": [],
+		"dental": [],
+		"boarding": [],
+		"hospitalization": [],
+		"anesthesia": [],
+		"surgical": [],
+		"endOfLife": [],
+		"tax": 4,
+		"taxVariant": "Fixed",
+		"duration": {
+			"variant": "fixed",
+			"values": {
+				"gte": 30,
+				"lte": 30
+			},
+			"UoM": "mins"
+		},
+		"weekendExtraCharge": null,
+		"description": "\r\n## Healthy Puppy Exam – $25 (30 min)\r\n\r\nAn exam for your healthy dog. As you book, you can add a full package of our most common services, including core vaccines and flea treatment, or choose from a list.\r\n",
+		"video": null,
+		"isPublished": true,
+		"appointmentType": [
+			"In Person"
+		],
+		"isPublic": true,
+		"species": [
+			"Dog"
+		],
+		"geoLocation": {
+			"lat": 40.6350296,
+			"lon": -73.9505011
+		},
+		"images": {
+			"primary": {
+				"id": "flatbush_vet_service1_image1",
+				"type": "image"
+			}
+		}
+	}
+}

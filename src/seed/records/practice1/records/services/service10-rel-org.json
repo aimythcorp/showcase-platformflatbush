@@ -1,0 +1,19 @@
+{
+    "app": "vetapp",
+    "service": "relsvc",
+    "domain": "",
+    "types": "providedbys",
+    "data": {
+        "id": "flatbush_vet_service10_rel_flatbush_vet",
+        "in": {
+            "id": "flatbush_vet",
+            "type": "practice"
+        },
+        "out": {
+            "id": "flatbush_vet_service10",
+            "type": "service"
+        },
+        "direction": "bi",
+        "attributes": {}
+    }
+}

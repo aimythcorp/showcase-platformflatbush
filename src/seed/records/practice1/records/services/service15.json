@@ -1,0 +1,83 @@
+{
+	"service": "datasvc",
+	"domain": "",
+	"types": "inPersonHealths",
+	"data": {
+		"practice": {
+			"id": "flatbush_vet",
+			"businessName": "Flatbush Veterinary Clinic",
+			"type": "practice"
+		},
+		"id": "flatbush_vet_service15",
+		"externalType": "In-Person Service",
+		"title": "Comprehensive Exam",
+		"serviceType": "Preventative Service",
+		"businessName": "Flatbush Veterinary Clinic",
+		"availabilty": [
+			"In Person"
+		],
+		"price": {
+			"variant": "fixed",
+			"values": {
+				"gte": 50,
+				"lte": 50
+			},
+			"UoM": "$"
+		},
+		"medianPrice": null,
+		"performedBy": [
+			"Veterinarian",
+			"Vet Tech"
+		],
+		"hospitalizationType": [
+			"Outpatient"
+		],
+		"teleHealthType": [],
+		"examinationsAndVisit": [
+			"Wellness Exam",
+			"Diagnostic Exam"
+		],
+		"vaccinations": [],
+		"laboratory": [],
+		"diagnosticAndImagingService": [],
+		"grooming": [],
+		"dental": [],
+		"boarding": [],
+		"hospitalization": [],
+		"anesthesia": [],
+		"surgical": [],
+		"endOfLife": [],
+		"tax": 4,
+		"taxVariant": "Fixed",
+		"duration": {
+			"variant": "fixed",
+			"values": {
+				"gte": 30,
+				"lte": 30
+			},
+			"UoM": "mins"
+		},
+		"weekendExtraCharge": null,
+		"description": "\r\n## Comprehensive Exam – $50 (30 min)\r\n\r\nA diagnostic exam for dogs or cats with minor medical concerns. We are able to offer basic diagnostics like bloodwork as well as treatment for common conditions like ear infections and upper respiratory infections.\r\n",
+		"video": null,
+		"isPublished": true,
+		"appointmentType": [
+			"In Person"
+		],
+		"isPublic": true,
+		"species": [
+			"Dog",
+			"Cat"
+		],
+		"geoLocation": {
+			"lat": 40.6350296,
+			"lon": -73.9505011
+		},
+		"images": {
+			"primary": {
+				"id": "flatbush_vet_service1_image1",
+				"type": "image"
+			}
+		}
+	}
+}
