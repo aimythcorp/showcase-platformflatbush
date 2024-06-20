@@ -3,9 +3,9 @@
     "domain": "",
     "types": "images",
     "data": {
-        "id": "flatbush_vet_service1_image1",
+        "id": "flatbush_vet_service9_image",
         "binaryData": {
-            "blob": "spay-cat.png"
+            "blob": "exams.png"
         }
     }
 }
