@@ -25,6 +25,10 @@
 			"UoM": "$"
 		},
 		"medianPrice": null,
+		"classification": [
+			"species",
+			"surgeries"
+		],
 		"performedBy": [
 			"Veterinarian"
 		],
@@ -41,7 +45,7 @@
 		"boarding": [],
 		"hospitalization": [],
 		"anesthesia": [],
-		"surgical": [
+		"surgeries": [
 			"Neuter"
 		],
 		"endOfLife": [],

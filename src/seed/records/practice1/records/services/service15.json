@@ -25,6 +25,10 @@
 			"UoM": "$"
 		},
 		"medianPrice": null,
+		"classification": [
+			"species",
+			"examinationsAndVisit"
+		],
 		"performedBy": [
 			"Veterinarian",
 			"Vet Tech"
@@ -45,7 +49,7 @@
 		"boarding": [],
 		"hospitalization": [],
 		"anesthesia": [],
-		"surgical": [],
+		"surgeries": [],
 		"endOfLife": [],
 		"tax": 4,
 		"taxVariant": "Fixed",

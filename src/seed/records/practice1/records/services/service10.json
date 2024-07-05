@@ -25,6 +25,10 @@
 			"UoM": "$"
 		},
 		"medianPrice": null,
+		"classification": [
+			"species",
+			"endOfLife"
+		],
 		"performedBy": [
 			"Veterinarian",
 			"Vet Tech"
@@ -45,7 +49,7 @@
 		],
 		"hospitalization": [],
 		"anesthesia": [],
-		"surgical": [
+		"surgeries": [
 		],
 		"endOfLife": [
 			"Cremation",

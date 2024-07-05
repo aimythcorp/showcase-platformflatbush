@@ -25,6 +25,10 @@
 			"UoM": "$"
 		},
 		"medianPrice": null,
+		"classification": [
+			"species",
+			"examinationsAndVisit"
+		],
 		"performedBy": [
 			"Veterinarian",
 			"Vet Tech"
@@ -43,11 +47,10 @@
 		"grooming": [],
 		"dental": [],
 		"boarding": [
-			"Sedated Exam"
 		],
 		"hospitalization": [],
 		"anesthesia": [],
-		"surgical": [
+		"surgeries": [
 			"Spay"
 		],
 		"endOfLife": [],
